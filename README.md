@@ -8,13 +8,13 @@
 
 - 👯 I’m looking to collaborate on **anything Javascript**
 
-- 👨‍💻 All of my projects are available [here at github](here at github)
+- 👨‍💻 All of my public projects are available [here](https://github.com/hamzawaleed0102?tab=repositories)
 
 - 💬 Ask me about **react, react native, javascript + a bit of backend**
 
-- 📫 How to reach me **hamzawaleed0102@gmail.com, +923056007001**
+- 📫 Reach out to me on: hamzawaleed0102@gmail.com or [LinkedIn](https://linkedin.com/in/hamzawaleed0102)
 
-- 📄 Know about my experiences [https://linkedin.com/in/hamzawaleed0102](https://linkedin.com/in/hamzawaleed0102)
+- 📄 Know about my experiences on [LinkedIn](https://linkedin.com/in/hamzawaleed0102)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
