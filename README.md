@@ -2,11 +2,11 @@
 
 <p align="left"> <a href="https://twitter.com/hamzawaleed0102" target="blank"><img src="https://img.shields.io/twitter/follow/hamzawaleed0102?logo=twitter&style=for-the-badge" alt="hamzawaleed0102" /></a> </p>
 
-- 🔭 I’m currently working **as full-time RN developer + open-source contributer**
+- 🔭 Working **as full-time RN developer + open-source contributer**
 
-- 🌱 I’m currently upgrading my **Javascript, React, React Native skills**
+- 🌱 Continuously upgrading my **Javascript, React, React Native skills**
 
-- 👯 I’m looking to collaborate on **anything Javascript**
+- 👯 Looking forward to collaborate on **anything Javascript**
 
 - 👨‍💻 All of my public projects are available [here](https://github.com/hamzawaleed0102?tab=repositories)
 
