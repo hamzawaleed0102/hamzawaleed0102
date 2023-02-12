@@ -8,13 +8,11 @@
 
 - 👯 Looking forward to collaborate on **anything Javascript**
 
-- 👨‍💻 All of my public projects are available [here](https://github.com/hamzawaleed0102?tab=repositories)
+- 👨‍💻 All of my public projects are available [here](https://github.com/hamzawaleed0102?tab=repositories) - ignore the outdated ones 🥺
 
 - 💬 Ask me about **react, react native, javascript + a bit of backend**
 
-- 📫 Reach out to me on [My Website](https:hamzawaleed.com) OR hamzawaleed0102@gmail.com OR [LinkedIn](https://linkedin.com/in/hamzawaleed0102)
-
-- 📄 Know about my experiences on [LinkedIn](https://linkedin.com/in/hamzawaleed0102)
+- 📄 Know about my experiences on [My Website](https://hamzawaleed.com/portfolio)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
