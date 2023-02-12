@@ -54,6 +54,8 @@ www.hamzawaleed.com
 - [Building a Slack Bot for Fun and Profit: A Guide to Using Slack Bolt JS SDK](https://hamzawaleed.com/building-a-slack-bot-for-fun-and-profit-a-guide-to-using-slack-bolt-js-sdk)
 - [Introducing Anony Botter: The Slack Bot  for Open Communication in Teams](https://hamzawaleed.com/anony-botter-send-anonymous-message-on-slack)
 - [Resume - Hamza Waleed](https://hamzawaleed.com/resume)
+- [Master the Art of React Hooks: Top 5 Hooks for Beginners](https://hamzawaleed.com/master-the-art-of-react-hooks-top-5-hooks-for-beginners)
+- [Combatting Burnout in the Software Industry](https://hamzawaleed.com/combatting-burnout-in-the-software-industry)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
