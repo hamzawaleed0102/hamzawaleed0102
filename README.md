@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **react, react native, javascript + a bit of backend**
 
-- 📫 Reach out to me on: hamzawaleed0102@gmail.com or [LinkedIn](https://linkedin.com/in/hamzawaleed0102)
+- 📫 Reach out to me on [My Website](https:hamzawaleed.com) OR hamzawaleed0102@gmail.com OR [LinkedIn](https://linkedin.com/in/hamzawaleed0102)
 
 - 📄 Know about my experiences on [LinkedIn](https://linkedin.com/in/hamzawaleed0102)
 
