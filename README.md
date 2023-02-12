@@ -48,8 +48,12 @@ www.hamzawaleed.com
 
 
 ## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
+<!-- BLOG-POST-LIST:START -->
+- [Portfolio - Hamza Waleed](https://hamzawaleed.com/portfolio)
+- [Achieving Success as a Programmer: The Power of Blogging](https://hamzawaleed.com/achieving-success-as-a-programmer-the-power-of-blogging)
+- [Building a Slack Bot for Fun and Profit: A Guide to Using Slack Bolt JS SDK](https://hamzawaleed.com/building-a-slack-bot-for-fun-and-profit-a-guide-to-using-slack-bolt-js-sdk)
+- [Introducing Anony Botter: The Slack Bot  for Open Communication in Teams](https://hamzawaleed.com/anony-botter-send-anonymous-message-on-slack)
+- [Resume - Hamza Waleed](https://hamzawaleed.com/resume)
 <!-- BLOG-POST-LIST:END -->  
 
 <br/>  
