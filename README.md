@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Hamza Waleed, a full-time remote developer 👨‍💻</div>  
+### <div align="center">I'm Hamza Waleed, a full-time remote fullstack developer 👨‍💻</div>  
   
 
 - 🔭 Specialising in react, react native and node.js development  
