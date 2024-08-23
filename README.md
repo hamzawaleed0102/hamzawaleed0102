@@ -6,10 +6,10 @@
 ### <div align="center">I'm Hamza Waleed, a full-time remote fullstack developer 👨‍💻</div>  
   
 
-- 🔭 Specialising in react, react native and node.js development  
+- 🔭 Specialising in backend and frontend development in multiple frameworks
   
 
-- 🌱 Continuously upgrading my Javascript, React, React Native skills  
+- 🌱 Continuously upgrading my Python Django, Javascript, React, React Native skills  
   
 
 - ❓ Ask me about anything javascript  
