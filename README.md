@@ -49,6 +49,7 @@ www.hamzawaleed.com
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Merging multiple OpenAPI spec files into one](https://hamzawaleed.com/merging-multiple-openapi-spec-files-into-one)
 - [Effective Code Sharing in React Native with Monorepo Architecture](https://hamzawaleed.com/effective-code-sharing-in-react-native-with-monorepo-architecture)
 - [Portfolio - Hamza Waleed](https://hamzawaleed.com/portfolio)
 - [Achieving Success as a Programmer: The Power of Blogging](https://hamzawaleed.com/achieving-success-as-a-programmer-the-power-of-blogging)
