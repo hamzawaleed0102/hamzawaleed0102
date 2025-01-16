@@ -49,6 +49,7 @@ www.hamzawaleed.com
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Introducing CashFlow AI - Expense Tracker](https://hamzawaleed.com/introducing-cashflow-ai-expense-tracker)
 - [Merging multiple OpenAPI spec files into one](https://hamzawaleed.com/merging-multiple-openapi-spec-files-into-one)
 - [Effective Code Sharing in React Native with Monorepo Architecture](https://hamzawaleed.com/effective-code-sharing-in-react-native-with-monorepo-architecture)
 - [Portfolio - Hamza Waleed](https://hamzawaleed.com/portfolio)
