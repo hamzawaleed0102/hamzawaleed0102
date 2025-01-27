@@ -49,10 +49,10 @@ www.hamzawaleed.com
 
 ## Recent Blog Posts  
 <!-- BLOG-POST-LIST:START -->
+- [Portfolio - Hamza Waleed](https://hamzawaleed.com/portfolio)
 - [Introducing CashFlow AI - Expense Tracker](https://hamzawaleed.com/introducing-cashflow-ai-expense-tracker)
 - [Merging multiple OpenAPI spec files into one](https://hamzawaleed.com/merging-multiple-openapi-spec-files-into-one)
 - [Effective Code Sharing in React Native with Monorepo Architecture](https://hamzawaleed.com/effective-code-sharing-in-react-native-with-monorepo-architecture)
-- [Portfolio - Hamza Waleed](https://hamzawaleed.com/portfolio)
 - [Achieving Success as a Programmer: The Power of Blogging](https://hamzawaleed.com/achieving-success-as-a-programmer-the-power-of-blogging)
 - [Building a Slack Bot for Fun and Profit: A Guide to Using Slack Bolt JS SDK](https://hamzawaleed.com/building-a-slack-bot-for-fun-and-profit-a-guide-to-using-slack-bolt-js-sdk)
 - [Introducing Anony Botter: The Slack Bot  for Open Communication in Teams](https://hamzawaleed.com/anony-botter-send-anonymous-message-on-slack)
